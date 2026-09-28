@@ -13,3 +13,5 @@ Bit-Map of the IP Address
 using the host formula and the bitwise operations for both addresses. 
 
 This project helped me sharpen my own Bash skills while also learning about what subnetting really is. 
+
+ALL INFORMATION IS ON MY LINKEDIN
